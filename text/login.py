@@ -1,3 +1,4 @@
+# 这是一个最牛逼的飞机大战（没有之一！！！）
 from flask import Flask
 
 app = Flask(__name__)
