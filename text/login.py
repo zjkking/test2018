@@ -8,6 +8,7 @@ app = Flask(__name__)
 def index2018():
 	num = 100
 	num3 = 300
+	num4 = 400
 	return 'hello world'
 
 
